@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import './App.css'
+import './autor.png'
 
 export default class App extends Component {
   render() {
