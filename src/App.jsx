@@ -6,9 +6,13 @@ export default class App extends Component {
     return (
       <main>
         <h1>Hello World from React! 📦 🚀</h1>
-        <p>This domain is for use in illustrative examples in documents. You may use this
-        domain in literature without prior coordination or asking for permission.</p>
-        <p><a href="https://www.iana.org/domains/example">More information...</a></p>
+        <p>
+        <img id="preview" src="placeholder.png"/>
+        <img id="twibbon" src="twibbon.png" style="display: none"/>
+        </p>
+        <p>Pastikan gambar yang di upload memiliki ukuran</p>
+        <p><input id="fileInput" type="file" /></p>
+    
       </main>
     )
   }
