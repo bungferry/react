@@ -11,8 +11,7 @@ export default class App extends Component {
         <img id="twibbon" src="twibbon.png" style="display: none"/>
         </p>
         <p>Pastikan gambar yang di upload memiliki ukuran</p>
-        <p><input id="fileInput" type="file" /></p>
-    
+        <p><input id="fileInput" type="file" /></p>    
       </main>
     )
   }
