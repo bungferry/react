@@ -5,9 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <main>
-        <h1>Hello World from React! 📦 🚀</h1>
-        <p>MIT License</p>
-
+        <h1>MIT License</h1>
         <p>Copyright (c) 2022 Ferry Ayunda</p>
 
         <p>Permission is hereby granted, free of charge, to any person obtaining a copy
